@@ -1,0 +1,370 @@
+# depslib dependency file v1.0
+1443425834 source:c:\users\ctlao\desktop\nueva carpeta (2)\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\ctlao\desktop\nueva carpeta (2)\inicia.h
+
+1114884180 c:\program files (x86)\codeblocks\mingw\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1131234010 c:\program files (x86)\codeblocks\mingw\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1127972156 c:\program files (x86)\codeblocks\mingw\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1131552998 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\alplatf.h
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\dir.h
+	<io.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1341010380 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\getopt.h
+	<_mingw.h>
+
+1112733112 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1341010370 c:\program files (x86)\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1341010374 c:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1112655974 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\alosxcfg.h
+
+1107498208 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1064191848 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1107289918 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1341010372 c:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1110943964 c:\program files (x86)\codeblocks\mingw\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\unicode.h
+	"base.h"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\config.h
+	"base.h"
+
+1091006138 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110430184 c:\program files (x86)\codeblocks\mingw\include\allegro\debug.h
+	"base.h"
+
+1126415872 c:\program files (x86)\codeblocks\mingw\include\allegro\mouse.h
+	"base.h"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\timer.h
+	"base.h"
+
+1102177606 c:\program files (x86)\codeblocks\mingw\include\allegro\keyboard.h
+	"base.h"
+
+1073666996 c:\program files (x86)\codeblocks\mingw\include\allegro\joystick.h
+	"base.h"
+
+1005088008 c:\program files (x86)\codeblocks\mingw\include\allegro\palette.h
+
+1122533670 c:\program files (x86)\codeblocks\mingw\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097988340 c:\program files (x86)\codeblocks\mingw\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107498204 c:\program files (x86)\codeblocks\mingw\include\allegro\fixed.h
+	"base.h"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1005092200 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\al386gcc.h
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\al386vc.h
+
+1110430188 c:\program files (x86)\codeblocks\mingw\include\allegro\platform\al386wat.h
+
+1116144414 c:\program files (x86)\codeblocks\mingw\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1116144404 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\color.inl
+
+1110430184 c:\program files (x86)\codeblocks\mingw\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125882008 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\compiled.h
+	"base.h"
+
+1105899516 c:\program files (x86)\codeblocks\mingw\include\allegro\text.h
+	"base.h"
+
+1112329550 c:\program files (x86)\codeblocks\mingw\include\allegro\font.h
+	"base.h"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104777342 c:\program files (x86)\codeblocks\mingw\include\allegro\gui.h
+	"base.h"
+
+1089588962 c:\program files (x86)\codeblocks\mingw\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1110430184 c:\program files (x86)\codeblocks\mingw\include\allegro\digi.h
+	"base.h"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\stream.h
+	"base.h"
+
+1111986472 c:\program files (x86)\codeblocks\mingw\include\allegro\midi.h
+	"base.h"
+
+1122533670 c:\program files (x86)\codeblocks\mingw\include\allegro\file.h
+	"base.h"
+
+1110301058 c:\program files (x86)\codeblocks\mingw\include\allegro\lzss.h
+	"base.h"
+
+1105904018 c:\program files (x86)\codeblocks\mingw\include\allegro\datafile.h
+	"base.h"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130727982 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007238772 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\matrix.inl
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\quat.h
+	"base.h"
+
+1110430184 c:\program files (x86)\codeblocks\mingw\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\3dmaths.inl
+
+1125882008 c:\program files (x86)\codeblocks\mingw\include\allegro\alcompat.h
+
+1036094184 c:\program files (x86)\codeblocks\mingw\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110430186 c:\program files (x86)\codeblocks\mingw\include\allegro\inline\fix.inl
+
+1443453331 source:c:\users\ctlao\desktop\nueva carpeta (2)\main.cpp
+	<allegro.h>
+	<ctime>
+	"inicia.h"
+	<map>
+	<iostream>
+	<fstream>
+
+1443430006 c:\users\ctlao\desktop\nueva carpeta (2)\tablarecords.h
+
